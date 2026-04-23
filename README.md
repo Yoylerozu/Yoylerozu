@@ -1,10 +1,15 @@
 intro
-- jerry m.
-- a bored dude on the world wide internet
-- I’m currently learning python, art and swedish lol
 
-INDONESIAN
+beanie dude.
+i do alot of things.
+- drawing
+- video editing
+- music making
+- messing around with software
+- messing around with iems
+- i still code but not often
 
 <!---
-never gonna give you up
+if you see this
+you're cool.
 --->
